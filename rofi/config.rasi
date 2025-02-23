@@ -6,6 +6,7 @@ configuration {
     modi: "window,run,drun";
     show-icons: true;
     icon-theme: "Papirus";
+    terminal:"kitty";
 }
 
 @theme "/dev/null"
@@ -74,3 +75,4 @@ prompt {
     padding: 12 0 0 12;
     text-color: @fg;
 }
+

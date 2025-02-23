@@ -6,4 +6,7 @@
 [ ! -d ~/.config/kitty ] && ln -sf ~/Repositories/arch-dotfiles/kitty ~/.config/kitty
 [ ! -d ~/.config/rofi ]  && ln -sf ~/Repositories/arch-dotfiles/rofi ~/.config/rofi
 [ ! -d ~/.config/picom ]  && ln -sf ~/Repositories/arch-dotfiles/picom ~/.config/picom
+[ ! -d ~/.config/ranger ]  && ln -sf ~/Repositories/arch-dotfiles/ranger ~/.config/ranger
+
+
 echo "SymLinks Completed"
